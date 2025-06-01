@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "518122806599",
+    "project_id": "new00-2e211",
+    "storage_bucket": "new00-2e211.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518122806599:android:7290c7bccffc3da0734062",
+        "android_client_info": {
+          "package_name": "com.alhakeem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlg4JiGq3Jy7T0szyeM6wxdbi9UfWoXnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518122806599:android:d3f5af9d194e75a3734062",
+        "android_client_info": {
+          "package_name": "com.beuty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlg4JiGq3Jy7T0szyeM6wxdbi9UfWoXnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518122806599:android:fe8976b432c9a0d9734062",
+        "android_client_info": {
+          "package_name": "com.lesson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlg4JiGq3Jy7T0szyeM6wxdbi9UfWoXnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
